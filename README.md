@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arief Zariq
 
-<!--
-**AriefZariq/AriefZariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor Computer Science(Hons.), UiTM
+- Currently learning: CSC649-Special Topics in Computer Science
+- My FYP area: Large Language Model and Agentic AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Phyton/ Java/ C++/ SQL
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: ariefzariqqq@gmail.com
