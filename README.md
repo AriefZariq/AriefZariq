@@ -14,5 +14,5 @@ Phyton/ Java/ C++/ SQL
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: www.linkedin.com/in/arief-zariq-zuraidi-35b091388 
 - Email: ariefzariqqq@gmail.com
