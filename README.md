@@ -11,8 +11,8 @@ Computer Science student at UiTM interested in software engineering and AI.
 Phyton/ Java/ C++/ SQL
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
-
+- [Agentic AI for Mental Well-Being Journaling](link-to-your-repository):
+  
 ## Contact
 - LinkedIn: www.linkedin.com/in/arief-zariq-zuraidi-35b091388 
 - Email: ariefzariqqq@gmail.com
