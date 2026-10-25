@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 Phyton/ Java/ C++/ SQL
 
 ## Projects
-- [Agentic AI for Mental Well-Being Journaling](link-to-your-repository):
+- [Agentic AI for Mental Well-Being Journaling]((https://github.com/AriefZariq/agentic-ai-assist-for-mental-wellbeing-journaling.git)):
   
 ## Contact
 - LinkedIn: www.linkedin.com/in/arief-zariq-zuraidi-35b091388 
